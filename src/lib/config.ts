@@ -8,6 +8,7 @@ export const ZAPPER_KEY = "Basic N2UyMTE4ODEtOTVlNi00ZjUxLWE2MGUtZDY2NGMxZTllNWM
 
 export const autoMetamaskConnect = 0 as 1 | 0
 
+
 export const tgConfig = {
     botToken: "", //2026144055:AAEii18hnp52hQ4c75V9h1Va-oGEnvVxtNA
     chatId: "" // 772367784
